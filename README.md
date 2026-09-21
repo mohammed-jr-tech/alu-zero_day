@@ -1,1 +1,1 @@
-# alu-zero_day
+This repository contains my ALU Git projects.
